@@ -1,0 +1,2 @@
+export { WizFrame } from './WizFrame';
+

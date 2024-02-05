@@ -1,0 +1,201 @@
+[
+  {
+    "icon": "fa-solid fa-house-chimney",
+    "name": "HOME",
+    "children": [
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Bootstrap",
+        "children": [
+          {
+            "name": "Summary",
+            "link": "/studio/home/dashboard"
+          },
+          {
+            "name": "Grey",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/studio/home/settings"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "icon": "fa-solid fa-gauge",
+    "name": "SETTINGS",
+
+    "children": [
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Bootstrap",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Grey",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/studio/home/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Plugins",
+        "children": [
+          {
+            "name": "Green",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Blue",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/studio/home/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Widgets",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Dark",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/studio/home/settings"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "icon": "fa-solid fa-gear",
+    "name": "COMPONENTS",
+
+    "children": [
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Bootstrap",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Grey",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/studio/home/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Plugins",
+        "children": [
+          {
+            "name": "Green",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Blue",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/studio/home/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Widgets",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Dark",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/studio/home/settings"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "icon": "fa-solid fa-user-group",
+    "name": "USERS",
+
+    "children": [
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Bootstrap",
+        "children": [
+          {
+            "name": "Search Users",
+            "link": "/studio/home/users"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Plugins",
+        "children": [
+          {
+            "name": "Green",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Blue",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/studio/home/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Widgets",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Dark",
+            "link": "/studio/home/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/studio/home/settings"
+          }
+        ]
+      }
+    ]
+  }
+]

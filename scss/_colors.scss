@@ -1,0 +1,16 @@
+$primary: #3d3d3d;
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);
+
+.bk-primary {
+  background-color: $primary;
+}
