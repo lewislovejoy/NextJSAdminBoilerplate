@@ -10,8 +10,8 @@ export const authConfig = {
   },
   providers: [
     GithubProvider({
-      clientId: 'de5655a13fc8c1fe27e1',// process.env.GITHUB_ID,
-      clientSecret: '6da7d37900287d4fbf9685c1f0d717ca794c554e' //process.env.GITHUB_SECRET,
+      clientId: process.env.GITHUB_ID,
+      clientSecret: process.env.GITHUB_SECRET
     }),
     Credentials({
       credentials: {
